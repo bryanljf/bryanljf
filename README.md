@@ -9,7 +9,7 @@ Desc
 
 *Linguagens* | *Banco de Dados* | 
 ------------ | ---------------- |
-[![My Langs](https://skillicons.dev/icons?i=nodejs,js,ts,py,java&perline=5)](https://skillicons.devi) | [![My dbs](https://skillicons.dev/icons?i=mysql,postgres,monngodb&perline=3)](https://skillicons.devi)
+[![My Langs](https://skillicons.dev/icons?i=nodejs,js,ts,py,java&perline=5)](https://skillicons.devi) | [![My dbs](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3)](https://skillicons.devi)
 
 
 ### 📊 Estatísticas Github
