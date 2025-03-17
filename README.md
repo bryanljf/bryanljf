@@ -7,11 +7,9 @@ Desc
 
 ### 💻 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts&perline=3)](https://skillicons.dev)
-
 *Linguagens* | *Banco de Dados* | 
 ------------ | ---------------- |
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,java&perline=5)](https://skillicons.dev) | exemp
+[![My Langs](https://skillicons.dev/icons?i=nodejs,js,ts,py,java&perline=5)] | exemp
 
 
 ### 📊 Estatísticas Github
