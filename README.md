@@ -11,7 +11,7 @@ Desc
 
 *Linguagens* | *Banco de Dados* | 
 ------------ | ---------------- |
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,java&perline=3)](https://skillicons.dev) | exemp
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,java&perline=5)](https://skillicons.dev) | exemp
 
 
 ### 📊 Estatísticas Github
