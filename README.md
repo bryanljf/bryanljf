@@ -16,6 +16,9 @@ Desc
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img
+    align="right"
+    alt="Github stats"
+    heighh=200
     src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
   <img
     align="left"
@@ -23,7 +26,5 @@ Desc
     height=200
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanljf&layout=compact&theme=dracula">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanljf&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
