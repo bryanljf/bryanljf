@@ -19,7 +19,7 @@ Desc
     align="right"
     alt="Github stats"
     heighh=200
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
+    src="https://github-readme-stats.vercel.app/api?username=bryanljf&show_icons=true&theme=dracula">
   <img
     alt="Top Langs"
     height=200
