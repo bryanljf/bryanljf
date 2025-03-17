@@ -1,5 +1,5 @@
 # >_ Bryan Franco
-**Desenvolvedor Backend | Estudante de Ciência da Computação** 
+**Desenvolvedor Backend** 
 
 Desc
 
@@ -12,6 +12,15 @@ Desc
 ---
 
 ### 📊 Estatísticas Github
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img
+    align="left"
+    alt="Top Langs"
+    height=200
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanljf&layout=compact&theme=highcontrast">
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanljf&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
