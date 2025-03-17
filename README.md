@@ -1,5 +1,5 @@
 # >_ Bryan Franco
-** Desenvolvedor Backend | Estudante de Ciência da Computação ** 
+**Desenvolvedor Backend | Estudante de Ciência da Computação** 
 
 Desc
 
