@@ -9,6 +9,9 @@ Desc
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts&perline=3)](https://skillicons.dev)
 
+Linguagens | Banco de Dados
+---------- | ----------
+
 ---
 
 ### 📊 Estatísticas Github
