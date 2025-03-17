@@ -21,7 +21,6 @@ Desc
     heighh=200
     src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
   <img
-    align="left"
     alt="Top Langs"
     height=200
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanljf&layout=compact&theme=dracula">
