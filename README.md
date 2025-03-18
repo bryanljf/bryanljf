@@ -18,7 +18,7 @@ Desc
   <img
     align="left"
     alt="Github stats"
-    heighh=200
+    height=200
     src="https://github-readme-stats.vercel.app/api?username=bryanljf&show_icons=true&theme=dracula">
   <img
     alt="Top Langs"
