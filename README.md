@@ -16,7 +16,7 @@ Desc
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img
-    align="right"
+    align="left"
     alt="Github stats"
     heighh=200
     src="https://github-readme-stats.vercel.app/api?username=bryanljf&show_icons=true&theme=dracula">
