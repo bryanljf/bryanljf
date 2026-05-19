@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Transforming raw data into strategic insights — from ETL pipelines and medallion architectures to dashboards and data products. 3+ years working across the full data cycle in high-scale digital platforms.
+  Transforming raw data into strategic insights. From ETL pipelines and medallion architectures to dashboards and data products.  3+ years working across the full data cycle in high-scale digital platforms.
 </p>
 
 <p align="center">
