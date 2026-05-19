@@ -1,4 +1,4 @@
-<h1 align="center">Bryan Franco</h1>
+<h1 align="center">>_ Bryan Franco</h1>
 
 <p align="center">
   <b>Analytics Engineer</b> · Incoming Computer Science Graduate · Curitiba, Brazil
