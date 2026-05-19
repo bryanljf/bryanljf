@@ -1,7 +1,7 @@
-<h1 align="center">>_ Bryan Franco</h1>
+<h1 align="center">Bryan Franco</h1>
 
 <p align="center">
-  <b>Analytics Engineer</b> · Incoming Computer Science Graduate · Curitiba, Brazil
+  <b>Analytics Engineer</b> · Computer Science Graduate · Curitiba, Brazil
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,bash,git,docker,linux&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,nodejs,bash,git,docker,linux&perline=9"/>
   </a>
 </p>
 
