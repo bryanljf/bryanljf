@@ -1,6 +1,6 @@
 <h1 align="center">>_Bryan Franco</h1>
 <p align="center">
-  <b>Analytics Engineer</b> · Computer Science (Universidade Positivo, 2026) · Curitiba, Brazil
+  <b>Analytics/Data Engineer</b> · Computer Science (Universidade Positivo, 2026) · Curitiba, Brazil
 </p>
 <p align="center">
   Turning raw, undocumented data into reliable metrics and decisions. SQL, ETL pipelines, dashboards and cloud data environments, now building toward Data Engineering.
@@ -12,9 +12,12 @@
   <a href="mailto:bryanljff@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Brazil-green?style=for-the-badge"/>
 </p>
+
 
 ---
 
