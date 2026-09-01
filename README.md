@@ -12,7 +12,7 @@
   <a href="mailto:bryanljff@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/English-Upper--Intermediate-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Brazil-green?style=for-the-badge"/>
 </p>
 
