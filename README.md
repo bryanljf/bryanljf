@@ -3,7 +3,7 @@
   <b>Analytics Engineer</b> · Computer Science (Universidade Positivo, 2026) · Curitiba, Brazil
 </p>
 <p align="center">
-  Turning raw, undocumented data into reliable metrics and decisions. SQL, ETL pipelines, dashboards and cloud data environments — now building toward Data Engineering.
+  Turning raw, undocumented data into reliable metrics and decisions. SQL, ETL pipelines, dashboards and cloud data environments, now building toward Data Engineering.
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/bryan-franco">
@@ -56,27 +56,6 @@
 🔍  Data Governance             Schema mapping · Outlier detection · Documentation
 🤖  AI-powered Data Products    Claude Code · Lovable
 ```
-
----
-
-### 🎯 Currently building toward Data Engineering
-```text
-dbt · Python without AI dependency · Analytics/Data Engineering certification
-```
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img
-    alt="Github stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=bryanljf&show_icons=true&theme=dracula&hide_border=true"/>
-  <img
-    alt="Top Langs"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanljf&layout=compact&theme=dracula&hide_border=true"/>
-</div>
 
 ---
 
