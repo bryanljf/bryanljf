@@ -1,13 +1,10 @@
 <h1 align="center">>_Bryan Franco</h1>
-
 <p align="center">
-  <b>Analytics Engineer</b> · Computer Science Graduate · Curitiba, Brazil
+  <b>Analytics Engineer</b> · Computer Science (Universidade Positivo, 2026) · Curitiba, Brazil
 </p>
-
 <p align="center">
-  Transforming raw data into strategic insights. From ETL pipelines and medallion architectures to dashboards and data products.  3+ years working across the full data cycle in high-scale digital platforms.
+  Turning raw, undocumented data into reliable metrics and decisions. SQL, ETL pipelines, dashboards and cloud data environments — now building toward Data Engineering.
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/bryan-franco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,36 +12,32 @@
   <a href="mailto:bryanljff@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Upper--Intermediate-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Brazil-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🧠 Languages & Tools
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,nodejs,bash,git,docker,linux&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=py,bash,git,docker,linux&perline=5"/>
   </a>
 </p>
 
 ---
 
 ### 📊 Data & Analytics
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,mongodb,redis&perline=5"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/SQL Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -56,19 +49,24 @@
 ---
 
 ### ⚡ What I build
-
 ```text
-🏗️  Medallion Architectures     Bronze → Silver → Gold on Amazon Redshift
-🔄  ETL Pipelines               n8n + Python + REST APIs + Webhooks  
+🔄  ETL Pipelines               n8n + Python + REST APIs + Webhooks
 📊  Analytical Dashboards       Power BI · Looker Studio · Streamlit
+🏗️  Data Architecture           Medallion (Bronze→Silver→Gold) evaluation & docs on Amazon Redshift
 🔍  Data Governance             Schema mapping · Outlier detection · Documentation
 🤖  AI-powered Data Products    Claude Code · Lovable
 ```
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Currently building toward Data Engineering
+```text
+dbt · Python without AI dependency · Analytics/Data Engineering certification
+```
 
+---
+
+### 📈 GitHub Stats
 <div align="center">
   <img
     alt="Github stats"
